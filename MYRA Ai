@@ -1,0 +1,9 @@
+git remote add origin https://github.com/monualwar7427-oss/Jarv-s.git
+git branch -M main
+git push -u origin mainhttps://github.com/monualwar7427-oss/Jarv-s.gitecho "# Jarv-s" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/monualwar7427-oss/Jarv-s.git
+git push -u origin mainREADME.md
